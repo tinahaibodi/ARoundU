@@ -6,8 +6,8 @@ target 'ARKit+CoreLocation' do
   use_frameworks!
 
   # Pods for ARKit+CoreLocation
-pod  'AlamoFire', '~> 4.7'
+pod  'Alamofire', '~> 4.7'
 pod 'CocoaLumberjack/Swift'
 pod 'ARCL'
 
-	end
+end

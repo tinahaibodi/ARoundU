@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.7.0)
+  - ARCL (1.0.2)
+  - CocoaLumberjack/Default (3.4.1)
+  - CocoaLumberjack/Swift (3.4.1):
+    - CocoaLumberjack/Default
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - ARCL
+  - CocoaLumberjack/Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  ARCL: 88300cadfbdd6a9288ca17ad18d3ac972d6cb1e6
+  CocoaLumberjack: 2e258a064cacc8eb9a2aca318e24d02a0a7fd56d
+
+PODFILE CHECKSUM: d01ab0835bd6438834bec87281a289750937928d
+
+COCOAPODS: 1.4.0
